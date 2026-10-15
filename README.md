@@ -24,3 +24,5 @@ Testando e aprendendo Git na prática.
 ## Laboratório Git
 
 Esta alteração foi criada na branch teste-git.
+
+Aprendendo a sincronizar o Git local com o GitHub.
