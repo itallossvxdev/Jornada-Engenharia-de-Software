@@ -20,3 +20,7 @@ Aprender na prática, compreender o que construo e evoluir uma missão de cada v
 - [ ] Construir meu primeiro projeto
 
 Testando e aprendendo Git na prática.
+
+## Laboratório Git
+
+Esta alteração foi criada na branch teste-git.
